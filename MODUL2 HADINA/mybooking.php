@@ -57,7 +57,7 @@ $roomtype = $_GET['roomtype'];
       <td><?= $name ?> </td>
       <td><?= $checkin ?> </td>
       <td><?= date('Y-m-d', strtotime($chekout))?></td>
-      <td><?= $roomtype ?> </td>
+      <td><?= $roomtipe ?> </td>
       <td><?= $phone ?> </td>
       
 <!-- //php service// -->

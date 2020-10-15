@@ -58,7 +58,7 @@
 
         <div class="row">
             <div class="column" style="background-color:white; margin-top: 3cm;">
-                <form action="mybooking.php" style="margin-left: 5cm;" method="get">
+                <form action="#mybooking.php" style="margin-left: 5cm;" method="post">
                     <label for="name">Name</label><br>
                     <input type="text" id="name" name="name" value="" style="width: 8cm;"><br><br>
 
